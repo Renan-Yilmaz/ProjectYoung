@@ -2,15 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.0EA",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "ProjectYoung",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	]
+	"Description": ""
 }
