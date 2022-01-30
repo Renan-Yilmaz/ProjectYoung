@@ -19,6 +19,14 @@
 		{
 			"Name": "FullBodyIK",
 			"Enabled": true
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
 		}
 	]
 }
